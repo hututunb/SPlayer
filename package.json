@@ -1,9 +1,9 @@
 {
   "name": "splayer",
-  "version": "1.1.4",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "version": "借鉴imsyy开源项目",
+  "author": "comefly",
+  "home": "https://hushichengyyds.top",
+  "github": "https://github.com/hututunb/SPlayer",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
